@@ -14,6 +14,14 @@
 
 ---
 
+____________________________________________________________________
+
+
+### -Panel de [Mando Operativo General.](http://warfare.net)
+
+### -Entrenamiento de ML para los [WarNet-Fly Autónomos.](http://warfare.net/ml)
+
+
 ## 🎯 Características Principales
 
 ### 🔬 Sensor Fusion Avanzado
@@ -335,7 +343,7 @@ Este proyecto está bajo licencia MIT. Ver archivo `LICENSE` para más detalles.
 ## 📞 Contacto
 
 - **Email:** info@warfare.net
-- **Documentación:** http://docs.WARfare.NET
+- **Documentación:** http://WARfare.NET/docs
 - **Issues:** [GitHub Issues](https://github.com/yoqer/warnet-fly/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/yoqer/warnet-fly/discussions)
 
