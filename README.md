@@ -334,8 +334,8 @@ Este proyecto está bajo licencia MIT. Ver archivo `LICENSE` para más detalles.
 
 ## 📞 Contacto
 
-- **Email:** info@warnet.com
-- **Documentación:** https://docs.warnet.com
+- **Email:** info@warfare.net
+- **Documentación:** http://docs.WARfare.NET
 - **Issues:** [GitHub Issues](https://github.com/yoqer/warnet-fly/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/yoqer/warnet-fly/discussions)
 
