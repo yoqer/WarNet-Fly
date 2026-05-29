@@ -17,7 +17,7 @@
 ____________________________________________________________________
 
 
-### -Panel de [Mando Operativo General.](http://warfare.net)
+### -Panel de [Mando Operativo.](http://warfare.net)
 
 ### -Entrenamiento de ML para los [WarNet-Fly Autónomos.](http://warfare.net/ml)
 
