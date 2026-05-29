@@ -19,8 +19,7 @@ ____________________________________________________________________
 
 ### -Panel de [Mando Operativo.](http://warfare.net)
 
-### -Entrenamiento de ML para los [WarNet-Fly Autónomos.](http://warfare.net/ml)
-
+### -Entrenamiento de ML para los [WarNet-Fly Autónomos.](https://github.com/yoqer/TenIII)
 
 
 __________________________________
