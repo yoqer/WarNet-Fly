@@ -380,3 +380,16 @@ Gracias a la comunidad de código abierto y a todos los contribuidores.
 **Estado:** ✅ Producción
 
 ¡Disfruta usando WarNet Command V4! 🚀
+
+__________________________________
+
+Mira otros ejemplos de uso: del similar [HorNet Estadounidense.](https://www.huffingtonpost.es/global/ucrania-domina-drones-rusia-atasca-expertos-dicen-guerra-entra-nueva-fase-el-ambiente-cambia-f202605.html#int=bloque_ult_art)
+
+Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sustituyendo al WarNet-Air, y satelites de recurso sustituyendo al WarNet-Satelital. [Nave Nodriza USA.](https://www.huffingtonpost.es/global/el-historico-giro-tactico-marines-eeuu-transforman-helicopteros-h1-naves-nodriza-lanzar-enjambres-drones-fpv-f202605.html?int=modulo_rel)
+
+
+También estamos enviado y poniendo a disposición el primer Modelo de entrenamiento del TenMiNaTor II, para pruebas en Ukrania y la fabricación de estos drones caseros.
+
+Tu tambien puedes ayudar, adquiriendo uno de los Mini-WarNet-Fly.
+
+Y disponemos de invitaciones de adquisición del sistema completo tras las pruebas, con los WarNet-Flyer, de Acceso a la Fiesta del paquete completo aun en fase Beta.
