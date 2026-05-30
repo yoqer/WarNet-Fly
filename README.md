@@ -1,4 +1,4 @@
-# WarNet Command V4 - Control Inteligente de Dirigibles Autónomos
+# WarNet Command V4 - Control Inteligente Autónomo.
 
 **Versión:** 4.0.0  
 **Estado:** ✅ Producción  
@@ -381,16 +381,21 @@ Gracias a la comunidad de código abierto y a todos los contribuidores.
 
 ¡Disfruta usando WarNet Command V4! 🚀
 
+
 __________________________________
+__________________________________
+
 
 Mira otros ejemplos de uso: del similar [HorNet Estadounidense.](https://www.huffingtonpost.es/global/ucrania-domina-drones-rusia-atasca-expertos-dicen-guerra-entra-nueva-fase-el-ambiente-cambia-f202605.html#int=bloque_ult_art)
 
-Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sustituyendo al [WarNet-Air](https://github.com/yoqer/WarNet-Air) y satelites de recurso sustituyendo al [WarNet-Satelital](https://github.com/yoqer/WarNet-Satelital).. 
- . **[-HELICOPTERO: -Nave Nodriza-](https://www.huffingtonpost.es/global/el-historico-giro-tactico-marines-eeuu-transforman-helicopteros-h1-naves-nodriza-lanzar-enjambres-drones-fpv-f202605.html?int=modulo_rel)**
+Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sustituyendo al [WarNet-Air](https://github.com/yoqer/WarNet-Air) y satelites de recurso sustituyendo al [WarNet-Satelital](https://github.com/yoqer/WarNet-Satelital). . 
+ .  **-HELICOPTERO:** [-Nave Nodriza-](https://www.huffingtonpost.es/global/el-historico-giro-tactico-marines-eeuu-transforman-helicopteros-h1-naves-nodriza-lanzar-enjambres-drones-fpv-f202605.html?int=modulo_rel)
 
 
 También estamos enviado y poniendo a disposición el primer Modelo de entrenamiento del TenMiNaTor III, [Ten II](https://github.com/yoqer/TenII) para pruebas en Ukrania y la fabricación de estos drones caseros para operatividad.
 
 Tu tambien puedes ayudar, adquiriendo un [Mini-WarNet-Fly.](https://github.com/yoqer/Mini-Air-Fly)
 
-Y disponemos de invitaciones de adquisición del sistema completo tras las pruebas, con los [WarNet-Flyer](https://github.com/yoqer/WarNet-Flyer), de Acceso a la Fiesta del paquete completo en fase Beta.
+Y disponemos de invitaciones de adquisición del sistema completo tras las pruebas, con los [WarNet-Flyer](https://github.com/yoqer/WarNet-Flyer), de Acceso a la Fiesta del paquete completo de fase Épsilon.
+
+__________________________________
