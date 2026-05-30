@@ -389,8 +389,8 @@ Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sus
 **[-Nave Nodriza USA-](https://www.huffingtonpost.es/global/el-historico-giro-tactico-marines-eeuu-transforman-helicopteros-h1-naves-nodriza-lanzar-enjambres-drones-fpv-f202605.html?int=modulo_rel)**
 
 
-También estamos enviado y poniendo a disposición el primer Modelo de entrenamiento del TenMiNaTor II, para pruebas en Ukrania y la fabricación de estos drones caseros.
+También estamos enviado y poniendo a disposición el primer Modelo de entrenamiento del TenMiNaTor III, Ten II, para pruebas en Ukrania y la fabricación de estos drones caseros para operatividad.
 
-Tu tambien puedes ayudar, adquiriendo uno de los Mini-WarNet-Fly.
+Tu tambien puedes ayudar, adquiriendo un [Mini-WarNet-Fly.](https://github.com/yoqer/Mini-Air-Fly)
 
-Y disponemos de invitaciones de adquisición del sistema completo tras las pruebas, con los WarNet-Flyer, de Acceso a la Fiesta del paquete completo aun en fase Beta.
+Y disponemos de invitaciones de adquisición del sistema completo tras las pruebas, con los WarNet-Flyer, de Acceso a la Fiesta del paquete completo en fase Beta.
