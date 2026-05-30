@@ -385,7 +385,7 @@ __________________________________
 
 Mira otros ejemplos de uso: del similar [HorNet Estadounidense.](https://www.huffingtonpost.es/global/ucrania-domina-drones-rusia-atasca-expertos-dicen-guerra-entra-nueva-fase-el-ambiente-cambia-f202605.html#int=bloque_ult_art)
 
-Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sustituyendo al WarNet-Air, y satelites de recurso sustituyendo al WarNet-Satelital. [Nave Nodriza USA.](https://www.huffingtonpost.es/global/el-historico-giro-tactico-marines-eeuu-transforman-helicopteros-h1-naves-nodriza-lanzar-enjambres-drones-fpv-f202605.html?int=modulo_rel)
+Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sustituyendo al [WarNet-Air](https://github.com/yoqer/WarNet-Air) y satelites de recurso sustituyendo al WarNet-Satelital. [Nave Nodriza USA.](https://www.huffingtonpost.es/global/el-historico-giro-tactico-marines-eeuu-transforman-helicopteros-h1-naves-nodriza-lanzar-enjambres-drones-fpv-f202605.html?int=modulo_rel)
 
 
 También estamos enviado y poniendo a disposición el primer Modelo de entrenamiento del TenMiNaTor II, para pruebas en Ukrania y la fabricación de estos drones caseros.
