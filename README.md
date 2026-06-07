@@ -394,7 +394,11 @@ Y los casos de despliegue del WarNet-Fly, en Ukrania con caros Helicópteros sus
 
 También estamos enviado y poniendo a disposición el primer Modelo de entrenamiento del TenMiNaTor III, [Ten II](https://github.com/yoqer/TenII) para pruebas en Ukrania y la fabricación de estos drones caseros para operatividad.
 
-[Mira logros de modelos Ucranianos.](https://www.msn.com/es-es/noticias/internacional/los-sistemas-de-defensa-l%C3%A1ser-rusos-fracasan-contra-los-drones-ucranianos/ar-AA250EYk?cvid=6a251ffd7db94ca59b6730dbf2bf040b&ocid=hpmsn)
+[Logros de modelos Ucranianos.](https://www.msn.com/es-es/noticias/internacional/los-sistemas-de-defensa-l%C3%A1ser-rusos-fracasan-contra-los-drones-ucranianos/ar-AA250EYk?cvid=6a251ffd7db94ca59b6730dbf2bf040b&ocid=hpmsn)
+
+<img width="1024" height="1024" alt="qJ6t2cUfGKYzrV6wHr5VQ" src="https://github.com/user-attachments/assets/2a4de149-1485-4671-97ae-4d16daa1b1c8" />
+
+
 
 
 Tu tambien puedes ayudar, adquiriendo un [Mini-WarNet-Fly.](https://github.com/yoqer/Mini-Air-Fly)
