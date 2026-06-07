@@ -396,7 +396,7 @@ También estamos enviado y poniendo a disposición el primer Modelo de entrenami
 
 [Logros de modelos Ucranianos.](https://www.msn.com/es-es/noticias/internacional/los-sistemas-de-defensa-l%C3%A1ser-rusos-fracasan-contra-los-drones-ucranianos/ar-AA250EYk?cvid=6a251ffd7db94ca59b6730dbf2bf040b&ocid=hpmsn)
 
-<img width="1024" height="1024" alt="qJ6t2cUfGKYzrV6wHr5VQ" src="https://github.com/user-attachments/assets/2a4de149-1485-4671-97ae-4d16daa1b1c8" />
+[<img width="1024" height="1024" alt="qJ6t2cUfGKYzrV6wHr5VQ" src="https://github.com/user-attachments/assets/2a4de149-1485-4671-97ae-4d16daa1b1c8"/>](https://GitHub.com/yoqer/WarNet-Dragon-Ball)
 
 
 
